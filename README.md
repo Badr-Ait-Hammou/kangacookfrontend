@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+![screencapture-localhost-3000-2024-08-20-17_16_13](https://github.com/user-attachments/assets/2e3f83cf-2f1c-483b-ae3b-9906e6cccbfd)
+
 ### `npm start`
 
 Runs the app in the development mode.\
