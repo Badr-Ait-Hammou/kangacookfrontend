@@ -1,0 +1,16 @@
+/* styles.css or your existing CSS file */
+.p-confirm-dialog .p-confirm-dialog-footer .p-button {
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.p-confirm-dialog .p-confirm-dialog-footer .p-button.p-button-confirm {
+    background-color: #f44336; /* Red color for 'Confirm' button */
+    color: white;
+}
+
+.p-confirm-dialog .p-confirm-dialog-footer .p-button.p-button-cancel {
+    background-color: #9e9e9e; /* Grey color for 'Cancel' button */
+    color: white;
+}
